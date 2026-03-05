@@ -1,7 +1,7 @@
 "use client"
 
 export default function WhatsAppWidget() {
-  const phoneNumber = "+201515667777"
+  const phoneNumber = "+201274230856"
   const message = encodeURIComponent("مرحباً، أنا مهتم بمشروع IL Monte Galala وأود الحصول على المزيد من المعلومات عن الوحدات المتاحة وأنظمة السداد.")
 
   return (
